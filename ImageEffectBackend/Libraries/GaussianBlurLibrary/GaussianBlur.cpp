@@ -9,6 +9,7 @@ void gaussianBlur(std::vector<std::vector<Pixel>> &img, float radius)
 {
     // Convert the radius to an integer
     int radius_int = static_cast<int>(radius);
+    radius_int=radius_int/10;
     int kernel_size = 2 * radius_int + 1;
 
     // Create a padded image vector with dimensions height+2 and width+2
