@@ -2,6 +2,7 @@
 
 
 ## Github Link
+https://github.com/Hemant-Gupta1/final_intellij/tree/main
 
 
 ## Features
@@ -36,9 +37,9 @@ Shreyas Biradar (IMT2022529)
 Sanjeev Harge (IMT2022530)
 
 #Contributions
-Ritish Shrirao - Filters (Gaussian Blur,Sharpen and Grayscale) 
+Ritish Shrirao - Filters (Gaussian Blur,Sharpen) 
 Siddeshwar Kagatikar - Filter (Rotation, Sepia) 
 Hemant Gupta - Filter (Flip, Hue Saturation) 
 Bhavya Kapadia - Filters (Brightness, Contrast, Invert) 
 Shreyas Biradar - Logging Service 
-Sanjeev Harge (Error Handling, Comments)
+Sanjeev Harge (Comments, Grayscale)
