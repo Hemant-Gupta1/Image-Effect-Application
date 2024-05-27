@@ -1,7 +1,7 @@
 # P2-2023-Project: Image Effect Application
 
 
-## Github Link
+## GitHub Link
 https://github.com/Hemant-Gupta1/Image-Effect-Application
 
 
